@@ -1,0 +1,14 @@
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.AssemblyInfoInputs.cache
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.AssemblyInfo.cs
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\bin\Debug\net8.0\WinXPSRV.exe
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\bin\Debug\net8.0\WinXPSRV.deps.json
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\bin\Debug\net8.0\WinXPSRV.runtimeconfig.json
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\bin\Debug\net8.0\WinXPSRV.dll
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\bin\Debug\net8.0\WinXPSRV.pdb
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.dll
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\refint\WinXPSRV.dll
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.pdb
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\WinXPSRV.genruntimeconfig.cache
+C:\Users\DT User\Desktop\bckgsrv\WinXPSRV\WinXPSRV\obj\Debug\net8.0\ref\WinXPSRV.dll
