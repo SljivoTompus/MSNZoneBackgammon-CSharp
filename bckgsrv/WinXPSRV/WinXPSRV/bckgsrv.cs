@@ -155,7 +155,7 @@ public class ZoneGameServer
             SendRoutingInfoPacket(stream, player.Id);
             Thread.Sleep(100);
 
-            // 1. zRoomMsgAccessed
+            /* 1. zRoomMsgAccessed
             byte[] accessedPacket = CreateRoomAccessedPacket(player.Id);
             stream.Write(accessedPacket, 0, accessedPacket.Length);
 
@@ -169,7 +169,7 @@ public class ZoneGameServer
 
             Console.WriteLine("[Player] Sent lbby RoomInfo packet.");
 
-            // 4. Opcioni welcome poruka
+            // 4. Opcioni welcome poruka*/
             SendLobbyWelcomePacket(stream, player.Id, $"Player{player.Id}");
             Thread.Sleep(100);
 
